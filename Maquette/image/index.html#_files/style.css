@@ -1,0 +1,101 @@
+/* /* body{
+    color: lawngreen !important;
+    overflow: hidden;
+} */
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+.navbar-nav > li{
+    margin-left:30px;
+    margin-right:30px;
+  }
+  
+   ul li a:hover:not(.active) {
+    background-color: #d73351;
+    border-radius: 25em;
+  }
+  ul li a.active{
+      color: #d73351;
+  } 
+
+  #navbarNav{
+      margin-left: 600px;
+      font-size: 25px;
+      
+  }
+  .d-block,.d-block1,.d-block2{
+      margin-left: 540px;
+  }
+  #texte{
+      font-size: 59px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  }
+  .carousel-inner{
+      background-color: black;
+      margin-top: -18px;
+    
+  }
+
+  #texte{
+      background-color: #a7a7a7;
+      font-family: 'Lucida calligraphy', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: #431401;
+    text-align: initial;
+    font-size: 45px;
+  }
+  #carouselExampleIndicators{
+      margin-left: -50px;
+  } */
+  /* @media screen and (max-width: 1280px)
+{
+    #navbarNav ul li a
+    {
+        color: lavender !important;
+    }
+
+}
+  */
+
+  /* -------------------footer --------------------------*/
+
+  #footer{
+    width: auto;
+    height: 150px;
+    background-color: #212121;
+    border: 2px solid #212121;
+   
+}
+#samaform{
+    width: auto;
+    height: 250px;
+    background: url("image/i123605-fondant-au-chocolat-noir-et-blanc.jpeg") no-repeat fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#formulaire {
+    width: auto;
+    height: auto;
+    border: 1px solide #212121;
+    margin-left: 220px;
+}
+#gerefooter{
+    margin-top: 50px;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+.optiondroite {
+    float: right;
+    margin: -210px 300px;
+}
+/* 
+ Pour les icons de footer */
+  .form{
+
+    border-radius: 5px;
+  }
